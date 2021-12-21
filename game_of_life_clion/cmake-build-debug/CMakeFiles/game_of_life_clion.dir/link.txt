@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/game_of_life_clion.dir/main.c.o -o game_of_life_clion.exe -Wl,--out-implib,libgame_of_life_clion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

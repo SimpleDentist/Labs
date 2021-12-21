@@ -1,0 +1,4 @@
+﻿  WordCont.c
+D:\Programs\CProjects\WordCont\WordCont.c(55,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Programs\CProjects\WordCont\WordCont.c(23,8): warning C4101: file_reader_bytes: неиспользованная локальная переменная
+  WordCont.vcxproj -> D:\Programs\CProjects\WordCont\Debug\WordCont.exe

@@ -1,0 +1,15 @@
+﻿  aosl.c
+D:\Programs\CProjects\AOSL\aosl.c(13,27): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Programs\CProjects\AOSL\aosl.c(34,6): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Programs\CProjects\AOSL\aosl.c(138,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "list *"
+D:\Programs\CProjects\AOSL\aosl.c(145,25): warning C4047: функция: "list *" отличается по уровням косвенного обращения от "int"
+D:\Programs\CProjects\AOSL\aosl.c(145,21): warning C4024: addelem: различные типы для формального и фактического параметров 1
+D:\Programs\CProjects\AOSL\aosl.c(145,31): warning C4047: =: "int" отличается по уровням косвенного обращения от "list *"
+D:\Programs\CProjects\AOSL\aosl.c(149,25): warning C4047: функция: "list *" отличается по уровням косвенного обращения от "int"
+D:\Programs\CProjects\AOSL\aosl.c(149,21): warning C4024: getvalue: различные типы для формального и фактического параметров 1
+D:\Programs\CProjects\AOSL\aosl.c(149,42): warning C4047: функция: "list *" отличается по уровням косвенного обращения от "int"
+D:\Programs\CProjects\AOSL\aosl.c(149,38): warning C4024: getvalue: различные типы для формального и фактического параметров 1
+D:\Programs\CProjects\AOSL\aosl.c(156,27): warning C4047: функция: "list *" отличается по уровням косвенного обращения от "int"
+D:\Programs\CProjects\AOSL\aosl.c(156,23): warning C4024: deletelem: различные типы для формального и фактического параметров 1
+D:\Programs\CProjects\AOSL\aosl.c(156,28): warning C4047: =: "int" отличается по уровням косвенного обращения от "list *"
+  AOSL.vcxproj -> D:\Programs\CProjects\AOSL\Debug\AOSL.exe

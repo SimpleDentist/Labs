@@ -1,0 +1,8 @@
+"Hope for the best, but prepare for the worst."
+1
+2
+3
+a
+b
+c
+Hello        World!
