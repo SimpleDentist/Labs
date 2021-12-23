@@ -1,0 +1,4 @@
+﻿  uint1024_t.c
+D:\Programs\CProjects\uint1024_t\uint1024_t.c(100,30): warning C4133: функция: несовместимые типы - из "int [9]" в "char *"
+D:\Programs\CProjects\uint1024_t\uint1024_t.c(101,34): warning C4133: функция: несовместимые типы - из "int [9]" в "const char *"
+  uint1024_t.vcxproj -> D:\Programs\CProjects\uint1024_t\Debug\uint1024_t.exe
