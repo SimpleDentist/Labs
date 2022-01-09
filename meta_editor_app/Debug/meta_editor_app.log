@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Programs\CProjects\meta_editor_app\main.c(7,35): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+D:\Programs\CProjects\meta_editor_app\main.c(69,35): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+  meta_editor_app.vcxproj -> D:\Programs\CProjects\meta_editor_app\Debug\meta_editor_app.exe
