@@ -8,3 +8,5 @@ Lab 3: AOSL
 Lab 4: meta_editor_app  
 
 Lab 5: game_of_life_clion  
+
+Lab 6: archivator
