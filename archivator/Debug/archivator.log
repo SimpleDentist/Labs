@@ -1,0 +1,9 @@
+﻿  main.c
+D:\Programs\CProjects\archivator\main.c(17,9): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+D:\Programs\CProjects\archivator\main.c(27,16): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+D:\Programs\CProjects\archivator\main.c(41,10): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+D:\Programs\CProjects\archivator\main.c(42,10): warning C4022: fwrite: несоответствие указателя для фактического параметра 1
+D:\Programs\CProjects\archivator\main.c(83,22): warning C4047: ==: "char [2]" отличается по уровням косвенного обращения от "int"
+D:\Programs\CProjects\archivator\main.c(86,24): warning C4047: ==: "char [2]" отличается по уровням косвенного обращения от "int"
+D:\Programs\CProjects\archivator\main.c(134,19): warning C4047: ==: "char [2]" отличается по уровням косвенного обращения от "int"
+  archivator.vcxproj -> D:\Programs\CProjects\archivator\Debug\archivator.exe
